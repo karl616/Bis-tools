@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 ## sort bed or gtf file by reference fasta's fai index and coordinate. Modified from GATK's sortByRef.pl script
 ## author: Yaping Liu  lyping1986@gmail.com
 

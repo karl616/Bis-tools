@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 ## transfer TCGA VCF 4.1 to file in wiggle format(TCGA level II data): coordinate + methylation_value(%)
 ##forward and reverse strand are combined
 ## author: Yaping Liu  lyping1986@gmail.com

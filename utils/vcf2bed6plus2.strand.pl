@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 ## transfer TCGA VCF 4.1 to file in bed 6+2 format(TCGA level III data): chr + start + end + . + methylation_value*10 + strand + methylation_value(%) + numCT_reads
 ## numC+numT==0 sites are not included.Only homozygous CG if pattern specified as CG.  This program gives +/- strand seperately.
 ## author: Yaping Liu  lyping1986@gmail.com

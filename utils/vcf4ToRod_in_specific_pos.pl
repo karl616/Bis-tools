@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 ## transfer VCF 4.1 to file in ROD format in provided position list
 ## author: Yaping Liu  lyping1986@gmail.com
 

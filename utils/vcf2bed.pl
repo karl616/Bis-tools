@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 ## transfer TCGA VCF 4.1 to file in bed 6+6 format(TCGA level II data): chr + start + end + methylation_value(100%) + C/T reads number + strand + thick_start + thick_end + rgb + A_reads_number_in_non_bisulfite_conversion_strand + G_reads_number_in_non_bisulfite_conversion_strand
 ## numC+numT==0 sites are not included. need to clarify cContext and SNP call's meaning from ben? This is wrong, since bedDetail in UCSC only allow bedPlus(4-12) + 2 more additional columns..
 ## author: Yaping Liu  lyping1986@gmail.com

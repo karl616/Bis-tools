@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 ##This script merge the bam files, if no option is assigned, they will be assign their own read group name, 
 ##if no read group they have, they will have their own read group id based on their file name.
 ## if option is specified. e.g. --sm IMR90.  then all of bam files' read group id will be their own, but SM tag would be changed to be the same SM tag.

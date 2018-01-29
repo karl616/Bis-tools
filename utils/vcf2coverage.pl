@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 ## transfer TCGA VCF 4.1 to file in bed 6+6 format(TCGA level II data): chr + start + end + C/T reads covergaes
 ##forward and reverse strand are combined
 ## author: Yaping Liu  lyping1986@gmail.com

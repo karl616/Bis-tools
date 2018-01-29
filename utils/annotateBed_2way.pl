@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+#!/usr/bin/env perl
 ##This script use BEDtools to annotate bed file with multiple genomic features, with percentage overlap, within same strand, reverse strand or both.
 ##it extend BEDtools to allow count from 5'end, 3'end, both border or center of bed. it also allows different upstream and downstream. 
 ##it will generate summary files that count how many regions are overlapped with each feature(p value using hypergenomitric test), 

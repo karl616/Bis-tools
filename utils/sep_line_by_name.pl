@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 my $file=$ARGV[0] || die "no input file!\n";
 my $col=$ARGV[1] || die "need to give the column number for seperate line!\n";
 my $prefix=$file;

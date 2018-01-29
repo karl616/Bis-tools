@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 ## transfer gtf to bed, with or without upstream/downstream extention, not translate contig with chr_gl001...
 ## author: Yaping Liu  lyping1986@gmail.com
 

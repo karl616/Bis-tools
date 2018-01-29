@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 ## transfer TCGA VCF 4.1 to file in bedGraph format: chr + start + end + methylation_value(%) + C/T reads number
 ##forward and reverse strand are combined
 ## author: Yaping Liu  lyping1986@gmail.com

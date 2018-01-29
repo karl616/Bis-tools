@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 ## transfer TCGA VCF 4.1 to file in wiggle format: coordinate + CT reads coverage
 ##forward and reverse strand are combined
 ## author: Yaping Liu  lyping1986@gmail.com
